@@ -4,7 +4,7 @@
 
 ## I'm a Software Engineering Student.  
 
-- 👨‍💻 I’m currently studying Software Engineering at UNMSM. 🇵🇪
+- 👨‍💻 I’m currently studying Software Engineering at UNMSM.
 - 🎮 I'm currently work with game engines: Unity and Unreal.
 - 📚 I’m currently learning everything about Frontend and Backend technologies.
 - 🐦Future Goals: Learn more technologies - Never stop creating new ideas.
