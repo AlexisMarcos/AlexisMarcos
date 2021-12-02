@@ -8,7 +8,7 @@
 - 🎮 I'm currently work with game engines: Unity and Unreal.
 - 📚 I’m currently learning everything about Frontend and Backend technologies.
 - 🐦Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play videogames and go seightseeing when is possible 📷.
+- ⚡ Fun fact: I love to play videogames and go seightseeing when is possible.
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
